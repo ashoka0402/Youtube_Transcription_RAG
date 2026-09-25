@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+typer
+rich
+python-dotenv
+groq
+google-genai
+qdrant-client
+sentence-transformers
+faster-whisper
+yt-dlp
